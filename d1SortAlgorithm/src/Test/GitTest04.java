@@ -6,5 +6,6 @@ public class GitTest04 {
         System.out.println("git commit 3");
         System.out.println("hot-fix commit4");
         System.out.println("master conflict1");
+        System.out.println("hotfixConflict commit");
     }
 }
